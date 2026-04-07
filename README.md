@@ -21,4 +21,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-
+### Contacts
+ - Telegram (preferred) : https://t.me/Lingy952
+ - Post : tolyati123@yandex.ru
